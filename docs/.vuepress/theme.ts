@@ -11,7 +11,7 @@ export default hopeTheme({
 
   editLink: false,
 
-  repo: "dimatortik/db-course-theme2",
+  repo: "WeeWeektor/db-course-theme2_lab6",
 
   docsDir: "docs",
   // navbar
